@@ -1,4 +1,3 @@
-# PythonCreativity
-Python Creative Codes. 
-From - @aYgCOO (Ayanabha Chatterjee) , 
-Credit :- https://github.com/Ar12agnik - @Ar12agnik (Agnik Roy).
+# Python Hands-On Projects
+ Collection of hands-on Python projects designed to boost practical coding skills. This repository includes beginner to intermediate-level projects covering real-world problems, automation, data handling, more perfect for learners who want to build while they learn.
+
