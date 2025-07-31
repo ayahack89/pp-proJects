@@ -1,0 +1,6 @@
+Language Use:- Max "Python" total scripting , Min "Sql"_for dbms to manage data.
+
+@aYgCOO
+
+Incomplete Code.
+
